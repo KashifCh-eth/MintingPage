@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.admin-wallet-address {
+  padding: 10px 20px;
+  color: #000000;
+  width: -webkit-fill-available;
+  height: 30px;
+  background: #ffffff;
+  border-radius: 10px;
+  font-size: 18px;
+}
+
+.activity-table {
+  width: 90%;
+  margin: 50px auto;
+}
+
+.activity-header {
+  background-color: #4451a9;
+  color: white;
+  line-height: 60px;
+  text-align: left;
+  font-size: 24px;
+  border: 1px white;
+  border-style: none none solid none;
+  padding-left: 13px;
+}
+
+.text-white {
+  color: white !important;
+}
+
+.main-theme-color {
+  background-color: #726ebb !important;
+}
+
+.dashboard-overview-highlight {
+  font-size: 18px !important;
+  font-weight: bold;
+}
+
+.poosail-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

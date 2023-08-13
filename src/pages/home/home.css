@@ -1,0 +1,123 @@
+.main-section {
+    min-height: calc(100vh - 74px);
+    background: url("../../assets/img/boatsforbg.png") center no-repeat, url("../../assets/img/beachbgwithsignorange.png") center / cover no-repeat;
+    width: 100%;
+}
+
+.home-section-card {
+    border-radius: 40px;
+    background: linear-gradient(116deg, var(--bs-cyan), rgba(255, 255, 255, 0.22) 22%);
+    height: 340px;
+}
+
+.home-mint-count-text {
+    margin-bottom: -5px;
+    color: var(--bs-orange);
+    font-family: 'Alfa Slab One', serif;
+}
+
+.home-mint-count-div {
+    text-align: center;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.home-price-input {
+    width: 100%;
+    text-align: center;
+    box-shadow: 0px 0px 16px var(--bs-orange);
+    border-radius: 12px;
+    border-width: 0px;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--bs-orange);
+    font-family: 'Alfa Slab One', serif;
+}
+
+.home-price-div {
+    text-align: center;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-top: 35px;
+}
+
+.home-price-total-label {
+    margin-top: 10px;
+    color: var(--bs-orange);
+    font-family: 'Alfa Slab One', serif;
+}
+
+.home-price-total-input {
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    border-width: 0px;
+    background: rgba(255, 255, 255, 0.09);
+    box-shadow: 0px 0px 14px var(--bs-orange);
+    text-align: center;
+    color: var(--bs-orange);
+    font-family: 'Alfa Slab One', serif;
+}
+
+.mr-0 {
+    margin-right: 0px !important;
+}
+
+.home-mint-button {
+    border-width: 0px;
+    border-color: var(--bs-card-cap-bg);
+    background: var(--bs-card-cap-bg);
+    box-shadow: 0px 0px 16px var(--bs-orange);
+    color: var(--bs-orange);
+}
+
+.text-center-with-padding-50 {
+    text-align: center;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.home-mint-slogan {
+    margin-top: 20px;
+    color: var(--bs-orange);
+    font-family: 'Alfa Slab One', serif;
+}
+
+.home-gradient-card {
+    height: 340px;
+    border-radius: 40px;
+    background: linear-gradient(-135deg, var(--bs-cyan) 0%, rgba(255, 255, 255, 0.14) 30%);
+}
+
+.p-50-mt-50 {
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-top: 50px;
+}
+
+.home-earned {
+    font-size: 25px;
+    margin-bottom: 0px;
+    font-family: 'Alfa Slab One', serif;
+    color: var(--bs-orange);
+}
+
+.home-earned-value {
+    font-size: 20px;
+    margin-bottom: 12px;
+    margin-top: 0px;
+    font-family: 'Alfa Slab One', serif;
+    color: var(--bs-orange);
+}
+
+.home-claim-button {
+    background: var(--bs-card-cap-bg);
+    box-shadow: 0px 0px 13px var(--bs-orange);
+    border-width: 0px;
+    color: var(--bs-orange);
+}
+
+.home-marketing-banner {
+    margin-top: 20px;
+    color: var(--bs-orange);
+    font-family: 'Alfa Slab One', serif;
+}

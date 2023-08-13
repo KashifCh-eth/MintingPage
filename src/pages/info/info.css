@@ -1,0 +1,19 @@
+.info-text {
+    text-align: center;
+    font-family: 'Alfa Slab One', serif;
+    color: var(--bs-orange);
+}
+
+.info-sub-div {
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-top: 81px;
+}
+
+.info-card-bg {
+    background: linear-gradient(132deg, var(--bs-cyan), rgba(255, 255, 255, 0.07) 60%);
+}
+
+.info-card-body {
+    box-shadow: 0px 0px 15px var(--bs-orange);
+}

@@ -1,0 +1,8 @@
+.copyright-paragraph {
+    color: var(--bs-orange);
+    font-family: 'Alfa Slab One', serif;
+}
+
+.footer-min-height {
+    min-height: 100px;
+}
